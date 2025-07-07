@@ -8,14 +8,14 @@ This Tableau workbook offers:
 - Comparative analysis of regions and income groups
 - Story points guiding users through key findings
 ## 📂 Dataset
-Source: Gapminder Health Statistics
-Format: Excel spreadsheet (.xlsx)
-Contents: Indicators like life expectancy, GDP per capita, infant mortality, and more
+- Source: Gapminder Health Statistics
+- Format: Excel spreadsheet (.xlsx)
+- Contents: Indicators like life expectancy, GDP per capita, infant mortality, and more
 ## 📈 Visualizations
 Key dashboards include:
-Global Health Overview: Comparing life expectancy vs. income
-Disease Burden by Region: Highlighting health challenges geographically
-Trends Over Time: Evolution of health metrics by country
+- Global Health Overview: Comparing life expectancy vs. income
+- Disease Burden by Region: Highlighting health challenges geographically
+- Trends Over Time: Evolution of health metrics by country
 ## 🚀 Getting Started
 Clone this repo
 bash
@@ -24,9 +24,9 @@ Open the Tableau workbook GapminderHealth.twb
 Explore dashboards and interact with filters
 ## 💡 Insights
 This project reveals:
-Strong correlation between income and life expectancy
-Outliers and surprises in regional health performances
-Time-based improvements and setbacks across countries
+- Strong correlation between income and life expectancy
+- Outliers and surprises in regional health performances
+ -Time-based improvements and setbacks across countries
 ## 🛠 Tools Used
 - Tableau Desktop
 - Excel
