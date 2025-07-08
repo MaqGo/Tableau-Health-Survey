@@ -17,9 +17,6 @@ Key dashboards include:
 - Disease Burden by Region: Highlighting health challenges geographically
 - Trends Over Time: Evolution of health metrics by country
 ## 🚀 Getting Started
-Clone this repo
-bash
-git clone https://github.com/your-username/gapminder-health-tableau.git
 Open the Tableau workbook GapminderHealth.twb
 Explore dashboards and interact with filters
 [HealthSurvey](https://public.tableau.com/app/profile/maya.goff/viz/3_1_Your_first_symbol_maporiginal_17489644839710/GenderhealthOverwiev)
