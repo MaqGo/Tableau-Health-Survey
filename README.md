@@ -25,6 +25,22 @@ This project reveals:
 - Strong correlation between income and life expectancy
 - Outliers and surprises in regional health performances
  -Time-based improvements and setbacks across countries
+## 📊 Key Findings
+
+Based on the visualizations created in this project:
+
+✅ **Regional Variation:**  
+There are clear geographic patterns in key health indicators such as smoking prevalence, obesity rates, and physical activity levels.
+
+✅ **High-Risk Areas:**  
+Certain states or regions show consistently higher rates of chronic diseases and risk factors.
+
+✅ **Opportunities for Intervention:**  
+Data visualization helps identify target areas where public health interventions could have the greatest impact.
+
+✅ **Data-driven Storytelling:**  
+Symbol maps make it easy to compare regions at a glance, highlighting disparities that may otherwise be overlooked.
+
 ## 🛠 Tools Used
 - Tableau Desktop
 - Excel
