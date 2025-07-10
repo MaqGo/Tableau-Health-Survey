@@ -1,4 +1,38 @@
-# Tableau-Health-Survey
+# Tableau Health Survey
+# BMI and Life Expectancy Dashboard
+This repository contains an interactive Tableau Public dashboard that explores the relationship between BMI, life expectancy, and continents/countries over time. The visualizations help uncover trends and patterns in global health metrics.
+
+# 📊 Dashboard Highlights
+Scatter Plot:
+
+Shows the correlation between average BMI and average life expectancy.
+
+Data points are color-coded by continent for easy comparison.
+
+Trend lines for each continent illustrate distinct patterns.
+
+Map Visualization:
+
+Displays average BMI values geographically.
+
+Provides a global perspective on BMI distribution.
+
+Interactive Filters:
+
+Filter by continent to analyze regional differences.
+
+Hover for detailed country-level insights.
+
+# 🗂️ Contents
+Sheets Included:
+
+BMI & Life Expectancy over Continents and Countries
+
+BMI by Years, Gender, and Continents
+
+Additional sheets on cancer data and population counts (future expansion)
+
+
 ## 📊 Gapminder Health Insights
 Explore global health trends with Tableau This project analyzes public health data from the Gapminder dataset using interactive dashboards built in Tableau. It aims to uncover insights about life expectancy, income, and disease burden across countries and regions over time.
 ## 🔍 Project Overview
@@ -16,10 +50,6 @@ Key dashboards include:
 - Global Health Overview: Comparing life expectancy vs. income
 - Disease Burden by Region: Highlighting health challenges geographically
 - Trends Over Time: Evolution of health metrics by country
-## 🚀 Getting Started
-Open the Tableau workbook GapminderHealth.twb
-Explore dashboards and interact with filters
-[HealthSurvey](https://public.tableau.com/app/profile/maya.goff/viz/3_1_Your_first_symbol_maporiginal_17489644839710/GenderhealthOverwiev)
 ## 💡 Insights
 This project reveals:
 - Strong correlation between income and life expectancy
@@ -45,3 +75,23 @@ Symbol maps make it easy to compare regions at a glance, highlighting disparitie
 - Tableau Desktop
 - Excel
 - GitHub
+
+  
+# 📈 Data Sources
+WHO Global Health Observatory (example)
+
+Publicly available health and demographic datasets
+
+
+# 📌 Project Status
+✅ Basic dashboards built
+
+✅ Interactive filters and trend lines added
+
+🚧 More visualizations and deeper insights in progress
+
+# 🤝 Contributing
+Contributions are welcome! If you’d like to add more data, improve the dashboard design, or extend the analysis, feel free to open an issue or submit a pull request.
+
+# 📄 License
+This project is open-source under the MIT License.
